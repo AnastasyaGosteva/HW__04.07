@@ -1,0 +1,15 @@
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.csproj.AssemblyReference.cache
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.AssemblyInfoInputs.cache
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.AssemblyInfo.cs
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.csproj.CoreCompileInputs.cache
+E:\Обучение GB\С#\HW 4.07\task006\bin\Debug\net6.0\task006.exe
+E:\Обучение GB\С#\HW 4.07\task006\bin\Debug\net6.0\task006.deps.json
+E:\Обучение GB\С#\HW 4.07\task006\bin\Debug\net6.0\task006.runtimeconfig.json
+E:\Обучение GB\С#\HW 4.07\task006\bin\Debug\net6.0\task006.dll
+E:\Обучение GB\С#\HW 4.07\task006\bin\Debug\net6.0\task006.pdb
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.dll
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\refint\task006.dll
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.pdb
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\task006.genruntimeconfig.cache
+E:\Обучение GB\С#\HW 4.07\task006\obj\Debug\net6.0\ref\task006.dll
