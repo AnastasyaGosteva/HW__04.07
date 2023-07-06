@@ -23,4 +23,4 @@ else
         }
     }
 }
-Console.WriteLine($"Максимальное число среди чисел {number1}, {number2}, {number3} равно "+max);
+Console.WriteLine($"Максимальное число среди чисел {number1}, {number2}, {number3} равно "+max+".");
